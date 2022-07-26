@@ -13,9 +13,8 @@ Capaz de realizar todas as funções CRUD (Create, Read, Update, Delete) e Gerad
 - random
 - string
 - progressbar 
-- cryptocode +
 
-(+) = bibliotecas que necessitam pré instalação com o comando pip
+(+) bibliotecas que necessitam pré instalação com o comando pip
 
 *recomendo alterar parametros de senha e login, com encriptação sha512, com valores da sua preferência. 
 
