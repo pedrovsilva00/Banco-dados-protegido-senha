@@ -8,8 +8,6 @@ import random
 import string
 import time
 from progressbar import Bar, AdaptiveETA, Percentage, ProgressBar,  RotatingMarker, FileTransferSpeed
-import cryptocode
-
 
 def logo():
     print ('     ___________________________________________________________ ')
@@ -32,7 +30,6 @@ def logo():
     print ('    |___________________________________________________________|')
     time.sleep(2)
     print('\x1b[2J')
-
 
 def barra():
     widgets = ['Carregando: ', Percentage(), ' ', Bar(marker=RotatingMarker()),
